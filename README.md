@@ -50,7 +50,7 @@
 ## 🧑‍💻 開發資訊 Developed Information
 - 開發語言：Python 3.11 + PyQt5  
 - 封裝工具：PyInstaller  
-- 開發者：Icanbe  
+- 開發者：farloveway  
 - 專案狀態：v1.0.0（穩定版）
 
 ---
@@ -58,5 +58,5 @@
 ## 📜 授權條款 Copyright Rules
 本程式僅供個人使用與學習之用，禁止商業散布。  
 如需修改或轉發，請先取得作者同意。
-> © 2025 AnyNote. Developed by Icanbe.  
+> © 2025 AnyNote. Developed by farloveway.  
 > All rights reserved.

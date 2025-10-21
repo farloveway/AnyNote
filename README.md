@@ -8,9 +8,14 @@
 ## 🚀 下載 Download
 
 最新版下載：
-👉 [AnyNote v1.0.0](https://github.com/farloveway/AnyNote/releases/tag/v1.0.0)
+- 👉 [AnyNote_v1.0.0.zip](https://github.com/farloveway/AnyNote/releases/latest) （建議）
+- 或 [AnyNote_v1.0.0.exe](https://github.com/farloveway/AnyNote/releases/latest)
 
-> 若執行時出現「Windows 安全警告」，請選擇「仍要執行」。  
+> 若執行時出現「Windows 安全警告」，請選擇「更多資訊 → 仍要執行」。
+> 此為 Windows 系統的安全提示，因本程式未簽章所致，請安心執行。
+
+> If Windows shows a “Security Warning”, click More info → Run anyway.
+> This message appears because the app is unsigned — it is safe to run.  
 > 本程式僅供個人使用，無惡意程式碼。
 
 ---
@@ -38,20 +43,20 @@
 ---
 
 ## 📘 使用說明 Usage
-1. 下載並執行 `AnyNote.exe`  
+1. 下載(解壓)並執行 `AnyNote.exe`  
 2. 點擊便利貼即可編輯文字  
-3. 使用下方選單可切換字體、顏色與背景顏色，以及新增、刪除便利貼  
+3. 使用下方選單可切換字體、顏色與背景顏色，以及新增➕、刪除🗑️便利貼  
 4. 編輯時會自動儲存筆記內容，下次開啟會自動載入
-5. 便利貼視窗右上角 X ，為隱藏便利貼按鍵
-6. 電腦螢幕右下角，為程式縮小圖示，使用右鍵可點擊功能: 顯示便利貼\隱藏便利貼\關閉程式
+5. 便利貼視窗右上角 🅧 ，為隱藏便利貼按鍵
+6. 電腦螢幕右下角，為系統匣縮小圖示，使用右鍵可顯示功能: 顯示便利貼\隱藏便利貼\關閉程式
 
 ---
 
 ## 🧑‍💻 開發資訊 Developed Information
-- 開發語言：Python 3.11 + PyQt5  
+- 開發語言：Python 3.10 + PyQt5  
 - 封裝工具：PyInstaller  
 - 開發者：farloveway  
-- 專案狀態：v1.0.0（穩定版）
+- 專案狀態：v1.0.0（初始版）
 
 ---
 

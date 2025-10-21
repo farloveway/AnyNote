@@ -8,8 +8,7 @@
 ## 🚀 下載 Download
 
 最新版下載：
-- 👉 [AnyNote_v1.0.0.zip](https://github.com/farloveway/AnyNote/releases/latest) （建議）
-- 或 [AnyNote_v1.0.0.exe](https://github.com/farloveway/AnyNote/releases/latest)
+- 👉 [AnyNote_v1.0.0.zip](https://github.com/farloveway/AnyNote/releases/download/v1.0.0/AnyNote_v1.0.0.zip) （建議）
 
 > 若執行時出現「Windows 安全警告」，請選擇「更多資訊 → 仍要執行」。
 > 此為 Windows 系統的安全提示，因本程式未簽章所致，請安心執行。

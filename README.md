@@ -3,6 +3,8 @@
 ，以 Python + PyQt5 開發，可支援多個便利貼、字體切換、顏色樣板與自動儲存功能。  
 目前提供 Windows 桌面版下載。
 
+🗒️ A lightweight PyQt5 sticky note app for Windows.
+
 ---
 
 ## 🚀 下載 Download

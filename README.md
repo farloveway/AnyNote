@@ -1,3 +1,11 @@
+![version](https://img.shields.io/github/v/release/farloveway/AnyNote)
+![license](https://img.shields.io/github/license/farloveway/AnyNote)
+![python](https://img.shields.io/badge/python-3.11+-blue)
+![platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+![downloads](https://img.shields.io/github/downloads/farloveway/AnyNote/total)
+![stars](https://img.shields.io/github/stars/farloveway/AnyNote?style=social)
+
+
 # AnyNote
 **AnyNote** 是一款極簡且輕量化的便利貼應用程式
 ，以 Python + PyQt5 開發，可支援多個便利貼、字體切換、顏色樣板與自動儲存功能。  

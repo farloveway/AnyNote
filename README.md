@@ -6,8 +6,7 @@
 ![downloads](https://img.shields.io/github/downloads/farloveway/AnyNote/total)
 ![stars](https://img.shields.io/github/stars/farloveway/AnyNote?style=social)
 
-## 🌐 Official Page  
-👉 [Visit AnyNote Official Page](https://farloveway.github.io/AnyNote/)
+## 🌐 Official Page  👉 [Visit AnyNote Official Page](https://farloveway.github.io/AnyNote/)
 
 # AnyNote — Sticky Notes Desktop App
 

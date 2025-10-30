@@ -1,5 +1,6 @@
 # AnyNote
-![version](https://img.shields.io/github/v/release/farloveway/AnyNote)
+![python](https://img.shields.io/badge/python-3.10+-blue)
+![pyqt5](https://img.shields.io/badge/framework-PyQt5-green)
 ![license](https://img.shields.io/github/license/farloveway/AnyNote)
 ![python](https://img.shields.io/badge/python-3.11+-blue)
 ![platform](https://img.shields.io/badge/platform-Windows-lightgrey)

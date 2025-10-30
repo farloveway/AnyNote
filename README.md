@@ -1,4 +1,3 @@
-# AnyNote
 ![python](https://img.shields.io/badge/python-3.10+-blue)
 ![pyqt5](https://img.shields.io/badge/framework-PyQt5-green)
 ![platform](https://img.shields.io/badge/platform-Windows-lightgrey)
@@ -7,11 +6,16 @@
 ![downloads](https://img.shields.io/github/downloads/farloveway/AnyNote/total)
 ![stars](https://img.shields.io/github/stars/farloveway/AnyNote?style=social)
 
+# AnyNote — 便利貼桌面應用程式 (Sticky Notes Desktop App)
+
+**AnyNote** is a simple and lightweight sticky notes desktop app built with **Python + PyQt5**.  
+It allows users to create, edit, and save multiple colorful notes on their screen,  
+with customizable fonts, colors, and automatic saving.
+🗒️ A lightweight PyQt5 sticky note app can download for Windows.
+
 **AnyNote** 是一款極簡且輕量化的便利貼應用程式
 ，以 Python + PyQt5 開發，可支援多個便利貼、字體切換、顏色樣板與自動儲存功能。  
 目前提供 Windows 桌面版下載。
-
-🗒️ A lightweight PyQt5 sticky note app for Windows.
 
 ---
 

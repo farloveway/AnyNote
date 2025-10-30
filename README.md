@@ -6,6 +6,9 @@
 ![downloads](https://img.shields.io/github/downloads/farloveway/AnyNote/total)
 ![stars](https://img.shields.io/github/stars/farloveway/AnyNote?style=social)
 
+## 🌐 Official Page  
+👉 [Visit AnyNote Official Page](https://farloveway.github.io/AnyNote/)
+
 # AnyNote — Sticky Notes Desktop App
 
 **AnyNote** is a simple and lightweight sticky notes desktop app built with **Python + PyQt5**.  

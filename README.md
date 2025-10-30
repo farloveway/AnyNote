@@ -51,12 +51,12 @@ the latest version:
 ---
 
 ## 📘 Usage
-1.Download, unzip, and run AnyNote.exe
-2.Click on any sticky note to edit text
-3.Use the bottom menu to switch fonts, text colors, and background themes, or to add ➕ / delete 🗑️ notes
-4.Notes are auto-saved while editing and automatically reloaded next time
-5.The 🅧 button at the top right hides the note window
-6.The system tray icon (bottom-right corner) provides right-click options: Show Notes, Hide Notes, and Exit App
+1. Download, unzip, and run AnyNote.exe
+2. Click on any sticky note to edit text
+3. Use the bottom menu to switch fonts, text colors, and background themes, or to add ➕ / delete 🗑️ notes
+4. Notes are auto-saved while editing and automatically reloaded next time
+5. The 🅧 button at the top right hides the note window
+6. The system tray icon (bottom-right corner) provides right-click options: Show Notes, Hide Notes, and Exit App
 
 ---
 

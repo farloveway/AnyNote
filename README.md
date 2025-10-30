@@ -21,13 +21,19 @@ with customizable fonts, colors, and automatic saving.
 
 ## 🚀 下載 Download
 
+the latest version:
+- 👉 [AnyNote_v1.0.0.zip](https://github.com/farloveway/AnyNote/releases/download/v1.0.0/AnyNote_v1.0.0.zip) （suggestion）
+
 最新版下載：
 - 👉 [AnyNote_v1.0.0.zip](https://github.com/farloveway/AnyNote/releases/download/v1.0.0/AnyNote_v1.0.0.zip) （建議）
 
+
+> If Windows shows a “Security Warning”, click More info → Run anyway.
+> This message appears because the app is unsigned — it is safe to run.
+> 
 > 若執行時出現「Windows 安全警告」，請選擇「更多資訊 → 仍要執行」。
 > 此為 Windows 系統的安全提示，因本程式未簽章所致，請安心執行。
 
-> If Windows shows a “Security Warning”, click More info → Run anyway.
 > This message appears because the app is unsigned — it is safe to run.  
 > 本程式僅供個人使用，無惡意程式碼。
 

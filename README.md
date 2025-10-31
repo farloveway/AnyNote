@@ -26,7 +26,7 @@ the latest version:
 > If Windows shows a “Security Warning”, click More info → Run anyway.
 > This message appears because the app is unsigned — it is safe to run.
 >
-> This app provides for personal with save coding.
+> This app provides for personal with safe coding.
 
 ---
 

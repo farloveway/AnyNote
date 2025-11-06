@@ -135,7 +135,6 @@ Please obtain permission from the author before modifying or redistributing the 
 - 開發語言：Python 3.10 + PyQt5  
 - 封裝工具：PyInstaller  
 - 開發者：farloveway  
-- 專案狀態：v1.0.0（初始版）
 
 ---
 

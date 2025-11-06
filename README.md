@@ -20,7 +20,7 @@ with customizable fonts, colors, and automatic saving.
 ##  Download
 
 the latest version:
-- --> [AnyNote_v1.0.0.zip](https://github.com/farloveway/AnyNote/releases/download/v1.0.0/AnyNote_v1.0.0.zip) （suggestion）
+- --> [AnyNote_v1.0.1.zip](https://github.com/farloveway/AnyNote/releases/download/v1.0.1/AnyNote_v1.0.1.zip) （suggestion）
 
 > If Windows shows a “Security Warning”, click More info → Run anyway.
 > This message appears because the app is unsigned — it is safe to run.
@@ -90,7 +90,7 @@ Please obtain permission from the author before modifying or redistributing the 
 ##  下載 
 
 最新版下載：
-- --> [AnyNote_v1.0.0.zip](https://github.com/farloveway/AnyNote/releases/download/v1.0.0/AnyNote_v1.0.0.zip) （建議）
+- --> [AnyNote_v1.0.1.zip](https://github.com/farloveway/AnyNote/releases/download/v1.0.1/AnyNote_v1.0.1.zip) （建議）
 
  
 > 若執行時出現「Windows 安全警告」，請選擇「更多資訊 → 仍要執行」。

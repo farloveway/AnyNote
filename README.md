@@ -65,7 +65,6 @@ the latest version:
 - Language:Python 3.10 + PyQt5  
 - Packaging Tool:PyInstaller  
 - Developer:farloveway  
-- Project Status: v1.0.0 (Initial Release)
 
 ---
 

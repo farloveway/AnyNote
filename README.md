@@ -4,7 +4,6 @@
 ![license](https://img.shields.io/github/license/farloveway/AnyNote)
 ![version](https://img.shields.io/github/v/release/farloveway/AnyNote)
 ![downloads](https://img.shields.io/github/downloads/farloveway/AnyNote/total)
-![stars](https://img.shields.io/github/stars/farloveway/AnyNote?style=social)
 
 ##  Official Page  --> [Visit AnyNote Official Page](https://farloveway.github.io/AnyNote/)
 
@@ -31,11 +30,11 @@ the latest version:
 ---
 
 ##  Features
--  * Multiple sticky notes that can be freely dragged around  
--  * Auto-save notes; content is automatically reloaded when reopened  
--  * Supports 4 custom fonts and multiple colorful note styles  
--  * Switchable text colors  
--  * Stores multiple notes in JSON format
+-   Multiple sticky notes that can be freely dragged around  
+-   Auto-save notes; content is automatically reloaded when reopened  
+-   Supports 4 custom fonts and multiple colorful note styles  
+-   Switchable text colors  
+-   Stores multiple notes in JSON format
 
 ---
 

@@ -87,7 +87,7 @@ Please obtain permission from the author before modifying or redistributing the 
 
 ---
 
-##  下載 Download
+##  下載 
 
 最新版下載：
 - --> [AnyNote_v1.0.0.zip](https://github.com/farloveway/AnyNote/releases/download/v1.0.0/AnyNote_v1.0.0.zip) （建議）
@@ -100,7 +100,7 @@ Please obtain permission from the author before modifying or redistributing the 
 
 ---
 
-##  功能特色 Features
+##  功能特色 
 -  多便利貼視窗，可自由拖曳位置  
 -  自動儲存內容，重開程式自動載入  
 -  支援 4 種字體與多色便利貼樣式  
@@ -109,20 +109,20 @@ Please obtain permission from the author before modifying or redistributing the 
 
 ---
 
-##  軟體截圖 Software Screenshots
+##  軟體截圖 
 | 主畫面 | 顏色選擇 | 字體設定 |
 |:--:|:--:|:--:|
 | ![Main](screenshots/main_window.png) | ![Color](screenshots/color_options.png) | ![Font](screenshots/font_settings.png) |
 
 ---
 
-##  系統需求 System Requirements
+##  系統需求 
 - Windows 10 / 11
 - 不需安裝 Python（已打包成 exe）
 
 ---
 
-##  使用說明 Usage
+##  使用說明 
 1. 下載(解壓)並執行 `AnyNote.exe`  
 2. 點擊便利貼即可編輯文字  
 3. 使用下方選單可切換字體、顏色與背景顏色，以及新增➕、刪除🗑️便利貼  
@@ -132,7 +132,7 @@ Please obtain permission from the author before modifying or redistributing the 
 
 ---
 
-##  開發資訊 Developed Information
+##  開發資訊 
 - 開發語言：Python 3.10 + PyQt5  
 - 封裝工具：PyInstaller  
 - 開發者：farloveway  
@@ -140,7 +140,7 @@ Please obtain permission from the author before modifying or redistributing the 
 
 ---
 
-##  授權條款 Copyright Rules
+##  授權條款 
 本程式僅供個人使用與學習之用，禁止商業散布。  
 如需修改或轉發，請先取得作者同意。
 > © 2025 AnyNote. Developed by farloveway.  

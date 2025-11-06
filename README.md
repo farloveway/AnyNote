@@ -6,7 +6,7 @@
 ![downloads](https://img.shields.io/github/downloads/farloveway/AnyNote/total)
 ![stars](https://img.shields.io/github/stars/farloveway/AnyNote?style=social)
 
-## 🌐 Official Page  👉 [Visit AnyNote Official Page](https://farloveway.github.io/AnyNote/)
+##  Official Page  --> [Visit AnyNote Official Page](https://farloveway.github.io/AnyNote/)
 
 # AnyNote — Sticky Notes Desktop App
 
@@ -14,14 +14,14 @@
 It allows users to create, edit, and save multiple colorful notes on their screen,  
 with customizable fonts, colors, and automatic saving.
 
-🗒️ A lightweight PyQt5 sticky note app can download for Windows.
+- A lightweight PyQt5 sticky note app can download for Windows.
 
 ---
 
-## 🚀 Download
+##  Download
 
 the latest version:
-- 👉 [AnyNote_v1.0.0.zip](https://github.com/farloveway/AnyNote/releases/download/v1.0.0/AnyNote_v1.0.0.zip) （suggestion）
+- --> [AnyNote_v1.0.0.zip](https://github.com/farloveway/AnyNote/releases/download/v1.0.0/AnyNote_v1.0.0.zip) （suggestion）
 
 > If Windows shows a “Security Warning”, click More info → Run anyway.
 > This message appears because the app is unsigned — it is safe to run.
@@ -30,29 +30,29 @@ the latest version:
 
 ---
 
-## ✨ Features
-- 🗒️ Multiple sticky notes that can be freely dragged around  
-- 💾 Auto-save notes; content is automatically reloaded when reopened  
-- 🎨 Supports 4 custom fonts and multiple colorful note styles  
-- 🔤 Switchable text colors  
-- 📌 Stores multiple notes in JSON format
+##  Features
+-  * Multiple sticky notes that can be freely dragged around  
+-  * Auto-save notes; content is automatically reloaded when reopened  
+-  * Supports 4 custom fonts and multiple colorful note styles  
+-  * Switchable text colors  
+-  * Stores multiple notes in JSON format
 
 ---
 
-## 📷 Software Screenshots
+##  Software Screenshots
 | Main Window | Color Options | Font Settings |
 |:--:|:--:|:--:|
 | ![Main](screenshots/main_window.png) | ![Color](screenshots/color_options.png) | ![Font](screenshots/font_settings.png) |
 
 ---
 
-## 🧩 System Requirements
+##  System Requirements
 - Windows 10 / 11
 - No Python installation required (already packaged as .exe)
 
 ---
 
-## 📘 Usage
+##  Usage
 1. Download, unzip, and run AnyNote.exe
 2. Click on any sticky note to edit text
 3. Use the bottom menu to switch fonts, text colors, and background themes, or to add ➕ / delete 🗑️ notes
@@ -62,7 +62,7 @@ the latest version:
 
 ---
 
-## 🧑‍💻 Developed Information
+##  Developed Information
 - Language:Python 3.10 + PyQt5  
 - Packaging Tool:PyInstaller  
 - Developer:farloveway  
@@ -70,7 +70,7 @@ the latest version:
 
 ---
 
-## 📜 Copyright Rules
+##  Copyright Rules
 This software is provided for personal and educational use only.
 Commercial distribution is not allowed.
 Please obtain permission from the author before modifying or redistributing the program.

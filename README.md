@@ -89,7 +89,7 @@ Please obtain permission from the author before modifying or redistributing the 
 ##  下載 
 
 最新版下載：
-- --> [AnyNote_v1.0.1.zip](https://github.com/farloveway/AnyNote/releases/download/v1.0.1/AnyNote_v1.0.1.zip) （中文-建議）
+- --> [AnyNote_v1.0.1.zip](https://github.com/farloveway/AnyNote/releases/download/v1.1.0/AnyNote_v1.0.1.zip) （中文-建議）
 
  
 > 若執行時出現「Windows 安全警告」，請選擇「更多資訊 → 仍要執行」。
